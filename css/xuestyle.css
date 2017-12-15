@@ -160,14 +160,15 @@
 
 #box_related{
     display: block;
-    padding-bottom:30px}
+    padding-bottom:20px}
 #box_related li{
     display: block;
     float: left;
     width: 202px;
-    height: 240px;
+    /*height: 240px;*//*#20171215修改*/
     overflow: hidden;
-    margin-right: 16px}
+    margin-right: 16px;
+    margin-bottom: 10px}
 #box_related li:nth-child(3),
 #box_related li:nth-child(6),
 #box_related li:nth-child(9){
